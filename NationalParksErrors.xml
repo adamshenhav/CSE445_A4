@@ -108,6 +108,7 @@
   </NationalPark>
   <NationalPark Rating="4.7">
     <Name>Olympic</Name>
+    <Name>Olympic</Name>
     <Phone>360-565-3130</Phone>
     <Address NearestAirport="Seattle">
       <Number>3002</Number>
